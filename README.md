@@ -1,2 +1,2 @@
 # Pizza-Place-Sales
-The four data sets provided by Techcrush were combined and analysed using Python and libraries in Jupyter notebook
+Four sets of data (csv files: orders, order details, pizza and pizza type) were provided by Techcrush. The data consists of a year’s worth sales from a fictitious pizza place and includes date and time of each order, the pizza served and additional details such as type, size, quality, price and category . The datasets were combined and analysed using Python and Python libraries in Jupyter notebook.
